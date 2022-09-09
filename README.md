@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balajirvp
 - 👀 I’m interested in finding interesting things with data
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently experienced in Python, SQL, Tableau. Parallely learning R. 
 - 💞️ I’m looking to collaborate on anything Data Science related
 - 📫 Reach out to me at balajirvp6@gmail.com
 
